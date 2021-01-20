@@ -1,2 +1,2 @@
 # pic
-picgo 
+picgo 上传专用
